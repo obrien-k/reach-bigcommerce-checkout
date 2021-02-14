@@ -1,11 +1,12 @@
 {
   "name": "reach-bigcommerce-checkout",
   "version": "1.0.0",
-  "description": "Connect BigCommerce Checkout-JS with Reach-SH and deploy using Next-JS",
+  "description": "Reach-JS connector for BigCommerce Checkout-JS",
   "main": "index.js",
   "scripts": {
+    "dev": "next dev",
     "build": "next build",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next start",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
@@ -14,11 +15,11 @@
     "url": "git+https://github.com/obrien-k/reach-bigcommerce-checkout.git"
   },
   "keywords": [
-    "bigcommerce",
-    "checkout",
-    "javascript",
     "reach",
-    "next"
+    "bigcommerce",
+    "checkout-js",
+    "next",
+    "storybook"
   ],
   "author": "Kyle OBrien",
   "license": "MIT",
@@ -27,6 +28,7 @@
   },
   "homepage": "https://github.com/obrien-k/reach-bigcommerce-checkout#readme",
   "dependencies": {
+    "next": "^10.0.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },

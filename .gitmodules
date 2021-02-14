@@ -1,0 +1,3 @@
+[submodule "checkout-js"]
+	path = checkout-js
+	url = https://github.com/bigcommerce/checkout-js
