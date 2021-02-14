@@ -11,5 +11,5 @@ module.exports = {
     "@storybook/addon-essentials"
   ],
   // Add nextjs preset
-  presets: [path.resolve(__dirname, "./next-preset.js")],
+ // presets: [path.resolve(__dirname, "./next-preset.js")],
 }
