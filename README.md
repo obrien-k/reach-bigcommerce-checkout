@@ -15,3 +15,8 @@ After cloning, use `npm run storybook` to start Storybook locally. Here you can 
 
 //TODO
 Currently work in progress.
+
+## [DOCS DIRECTIONAL](https://github.com/orphic-inc/slate)
+## [LDJM48/CANVAS](https://https://ldjam.com/events/ludum-dare/48/$234037/) // [EDIT ACCESS/PROJECT NFT](https://ldjam.com/events/ludum-dare/48/$234037/)
+
+### [Racket Docs](https://docs.racket-lang.org/)
